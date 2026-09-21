@@ -114,7 +114,7 @@ function Tribute() {
         Source Code is available at{" "}
         <Link
           className="underline font-medium"
-          href="https://github.com/your-repo"
+          href="https://github.com/Vaden89/typeahead-demo"
         >
           GitHub
         </Link>
